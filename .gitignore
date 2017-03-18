@@ -1,0 +1,6 @@
+css/
+js/app.min.js
+dist/
+node_modules/
+vendors/bower_components/
+.DS_Store
